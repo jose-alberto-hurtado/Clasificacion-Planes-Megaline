@@ -47,4 +47,4 @@ Conclusión El modelo Random Forest permite identificar el plan más adecuado pa
 
 Contacto José Alberto Hurtado Echeverría
 Correo: josealberto1829@gmail.com
-LinkedIn: linkedin.com/in/josé-alberto-hurtado-echeverría-77910a319/
+LinkedIn: linkedin https://www.linkedin.com/in/jose-alberto-hurtado-echeverria-77910a319/
